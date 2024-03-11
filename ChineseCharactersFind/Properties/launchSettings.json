@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChineseCharactersFind": {
+      "commandName": "Project",
+      "commandLineArgs": "--p E:\\Download"
+    }
+  }
+}
